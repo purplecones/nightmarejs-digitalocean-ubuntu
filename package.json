@@ -2,15 +2,9 @@
   "name": "test",
   "version": "1.0.0",
   "description": "",
-  "scripts": {
-    "build": "node init.js",
-    "start": "xvfb-run node --harmony index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nightmare": "^2.5.1",
-    "shelljs": "^0.7.0"
+    "nightmare": "^2.5.1"
   }
 }
