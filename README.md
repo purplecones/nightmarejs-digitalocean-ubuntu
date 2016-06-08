@@ -1,5 +1,9 @@
 # nightmarejs-digitalocean-ubuntu
 
+A simple example of running [nightmarejs](https://github.com/segmentio/nightmare) on a Ubuntu server
+
+---
+
 Spin up Digital Ocean Ubuntu Droplet and ssh to it
 
 ![](https://raw.githubusercontent.com/purplecones/nightmarejs-digitalocean-ubuntu/master/do.png)
