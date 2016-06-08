@@ -1,6 +1,6 @@
 # nightmarejs-digitalocean-ubuntu
 
-Spin up Digital Ocean Ubuntu Droplet
+Spin up Digital Ocean Ubuntu Droplet and ssh to it
 
 ![](https://raw.githubusercontent.com/purplecones/nightmarejs-digitalocean-ubuntu/master/do.png)
 
@@ -19,6 +19,7 @@ Install xvfb and other dependacies
 Install node (https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
 
 `curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -`
+
 `sudo apt-get install -y nodejs`
 
 Clone this repo
