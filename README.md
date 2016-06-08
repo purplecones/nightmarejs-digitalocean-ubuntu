@@ -2,6 +2,8 @@
 
 Spin up Digital Ocean Ubuntu Droplet
 
+![](https://raw.githubusercontent.com/purplecones/nightmarejs-digitalocean-ubuntu/master/do.png)
+
 Update apt-get repos
 
 `apt-get update`
